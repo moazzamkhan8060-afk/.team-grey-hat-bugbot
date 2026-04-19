@@ -1,0 +1,19 @@
+{
+  "name": "TEEN GREY HAT",
+  "version": "1.0.0",
+  "description": "TEAM GREY HAT BUGBOT BY MOAZZAM KHAN",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "npm:fenrir-baileys@latest",
+    "cheerio": "^1.0.0-rc.10",
+    "jimp": "^0.16.1",
+    "pino": "^8.19.0",
+    "qrcode-terminal": "^0.12.0",
+    "yt-search": "^2.10.0"
+  },
+  "author": "MOAZZAM ➣ GREY HAT",
+  "license": "ISC"
+}
